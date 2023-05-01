@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.exe
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.deps.json
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.runtimeconfig.json
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.dll
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\netcoreapp3.1\PrimitiveDataTypes.pdb
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.TiposPrimitivos.resources
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.csproj.GenerateResource.cache
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.dll
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.pdb
+C:\Users\Lunahri\source\repos\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\netcoreapp3.1\PrimitiveDataTypes.genruntimeconfig.cache
