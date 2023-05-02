@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.exe
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.deps.json
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.runtimeconfig.json
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.dll
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\bin\Debug\netcoreapp3.1\MathsOperators.pdb
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.Operadores.resources
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.csproj.GenerateResource.cache
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.dll
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.pdb
+C:\Users\Lunahri\source\repos\MathsOperators\MathsOperators\obj\Debug\netcoreapp3.1\MathsOperators.genruntimeconfig.cache
