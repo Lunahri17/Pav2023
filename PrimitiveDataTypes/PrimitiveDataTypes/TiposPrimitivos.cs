@@ -50,7 +50,9 @@ namespace PrimitiveDataTypes
 
         private void ShowIntValue()
         {
-            txtEjemplo.Text = "to do";
+            int intVar;
+            intVar = 42;
+            txtEjemplo.Text = intVar.ToString();
         }
 
         private void ShowLongValue()
@@ -69,7 +71,9 @@ namespace PrimitiveDataTypes
 
         private void ShowDoubleValue()
         {
-            txtEjemplo.Text = "to do";
+            double doubleVar;
+            doubleVar = 0.42;
+            txtEjemplo.Text = doubleVar.ToString();
         }
 
         private void ShowDecimalValue()
@@ -95,7 +99,9 @@ namespace PrimitiveDataTypes
 
         private void ShowBoolValue()
         {
-            txtEjemplo.Text = "to do";
+            bool boolVar;
+            boolVar = false ;
+            txtEjemplo.Text = boolVar.ToString();
         }
 
         private void SalirClick(object sender, EventArgs e)
