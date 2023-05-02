@@ -1,0 +1,14 @@
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.exe
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.deps.json
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.runtimeconfig.json
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.dll
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\bin\Debug\netcoreapp3.1\DailyRate.pdb
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.dll
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.pdb
+C:\Users\Lunahri\source\repos\DailyRateUsingOptionalParameters\DailyRate\obj\Debug\netcoreapp3.1\DailyRate.genruntimeconfig.cache
