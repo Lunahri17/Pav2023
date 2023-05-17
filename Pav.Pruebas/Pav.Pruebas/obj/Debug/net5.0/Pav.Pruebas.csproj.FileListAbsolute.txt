@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.exe
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.deps.json
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.runtimeconfig.json
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.dll
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\bin\Debug\net5.0\Pav.Pruebas.pdb
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.dll
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\refint\Pav.Pruebas.dll
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.pdb
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\Pav.Pruebas.genruntimeconfig.cache
+C:\Users\Lunahri\source\repos\Pav.Pruebas\Pav.Pruebas\obj\Debug\net5.0\ref\Pav.Pruebas.dll

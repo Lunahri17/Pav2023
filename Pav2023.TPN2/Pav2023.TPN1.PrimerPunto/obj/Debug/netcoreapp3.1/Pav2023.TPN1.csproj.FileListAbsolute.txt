@@ -1,0 +1,14 @@
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.exe
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.deps.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.runtimeconfig.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.dll
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\bin\Debug\netcoreapp3.1\Pav2023.TPN1.pdb
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.dll
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.pdb
+C:\Users\Lunahri\source\repos\Pav2023.TPN2\Pav2023.TPN1.PrimerPunto\obj\Debug\netcoreapp3.1\Pav2023.TPN1.genruntimeconfig.cache

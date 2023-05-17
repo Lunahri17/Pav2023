@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.exe
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.deps.json
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.runtimeconfig.json
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.dll
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\bin\Debug\netcoreapp3.1\DoStatement.pdb
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.Principal.resources
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.csproj.GenerateResource.cache
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.dll
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.pdb
+C:\Users\Lunahri\source\repos\DoStatement\DoStatement\obj\Debug\netcoreapp3.1\DoStatement.genruntimeconfig.cache

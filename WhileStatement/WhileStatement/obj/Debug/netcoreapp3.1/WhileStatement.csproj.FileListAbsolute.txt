@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.exe
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.deps.json
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.runtimeconfig.json
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.dll
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.pdb
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.Principal.resources
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.csproj.GenerateResource.cache
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.dll
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.pdb
+C:\Users\Lunahri\source\repos\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.genruntimeconfig.cache

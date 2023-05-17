@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvsPK1rV2HZ7MsuvvSBvcC5e6wsTdbe+s2nJseQoSbDLbKxw4zoUyEhKx1dPP8wccHw0/qY2PnJkZXskvmcirg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Lunahri\\source\\repos\\Pav.Parcial.Alumnos_Sim\\Pav.Parcial.Test\\Pav.Parcial.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package MSTest.TestAdapter with version (>= 2.2.10)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.2.7 ]",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package MSTest.TestFramework with version (>= 2.2.10)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.2.7 ]",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NET.Test.Sdk with version (>= 17.3.2)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 16.11.0 ]",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package coverlet.collector with version (>= 3.1.2)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 3.0.3 ]",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

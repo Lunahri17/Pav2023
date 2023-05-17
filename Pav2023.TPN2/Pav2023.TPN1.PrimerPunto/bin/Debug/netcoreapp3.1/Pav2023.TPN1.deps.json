@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pav2023.TPN1/1.0.0": {
+        "runtime": {
+          "Pav2023.TPN1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pav2023.TPN1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

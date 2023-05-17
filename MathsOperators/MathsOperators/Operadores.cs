@@ -24,8 +24,8 @@ namespace MathsOperators
 
         private void CalcularClick(object sender, EventArgs e)
         {
-            try
-            {
+            /*try
+            {*/
                 if (rbSuma.Checked)
                 {
                     AddValues();
@@ -46,12 +46,12 @@ namespace MathsOperators
                 {
                     RemainderValues();
                 }
-            }
+            /*}
             catch (Exception caught)
             {
                 lblExpresion.Text = "";
                 lblResultado.Text = caught.Message;
-            }
+            }*/
         }
 
         private void AddValues()
