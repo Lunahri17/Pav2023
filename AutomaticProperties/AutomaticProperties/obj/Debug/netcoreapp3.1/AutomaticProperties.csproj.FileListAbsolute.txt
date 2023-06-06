@@ -1,0 +1,14 @@
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.exe
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.deps.json
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.runtimeconfig.json
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.dll
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.pdb
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.dll
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.pdb
+C:\Users\Lunahri\source\repos\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.genruntimeconfig.cache

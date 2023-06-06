@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\Lunahri\source\repos\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.MainView.resources
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.GenerateResource.cache
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\Lunahri\source\repos\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

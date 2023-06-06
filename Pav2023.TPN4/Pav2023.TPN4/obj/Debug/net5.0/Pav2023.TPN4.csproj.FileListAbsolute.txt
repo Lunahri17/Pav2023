@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.exe
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.deps.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.runtimeconfig.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.dll
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\bin\Debug\net5.0\Pav2023.TPN4.pdb
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.dll
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\refint\Pav2023.TPN4.dll
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.pdb
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\Pav2023.TPN4.genruntimeconfig.cache
+C:\Users\Lunahri\source\repos\Pav2023.TPN4\Pav2023.TPN4\obj\Debug\net5.0\ref\Pav2023.TPN4.dll

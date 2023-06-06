@@ -1,0 +1,14 @@
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Lunahri\source\repos\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache

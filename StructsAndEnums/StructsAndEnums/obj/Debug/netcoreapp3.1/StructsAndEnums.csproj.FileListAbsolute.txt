@@ -1,0 +1,14 @@
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.exe
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.deps.json
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.runtimeconfig.json
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.dll
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\bin\Debug\netcoreapp3.1\StructsAndEnums.pdb
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.dll
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.pdb
+C:\Users\Lunahri\source\repos\StructsAndEnums\StructsAndEnums\obj\Debug\netcoreapp3.1\StructsAndEnums.genruntimeconfig.cache
