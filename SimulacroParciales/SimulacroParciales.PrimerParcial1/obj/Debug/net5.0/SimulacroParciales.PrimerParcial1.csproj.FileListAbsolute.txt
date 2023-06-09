@@ -1,0 +1,16 @@
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.exe
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.deps.json
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.runtimeconfig.json
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.runtimeconfig.dev.json
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.dll
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\bin\Debug\net5.0\SimulacroParciales.PrimerParcial1.pdb
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.csproj.AssemblyReference.cache
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.AssemblyInfoInputs.cache
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.AssemblyInfo.cs
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.dll
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\refint\SimulacroParciales.PrimerParcial1.dll
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.pdb
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\SimulacroParciales.PrimerParcial1.genruntimeconfig.cache
+C:\Users\Lunahri\source\repos\SimulacroParciales\SimulacroParciales.PrimerParcial1\obj\Debug\net5.0\ref\SimulacroParciales.PrimerParcial1.dll
