@@ -22,7 +22,7 @@ namespace SimulacroParciales.PrimerParcial1
             Tiempo estimado: 15m
 
 
-                #casadsdasdasdasdasd#de#n#a
+                ca de n a
         */
 
         public static string Reemplazar(string mascara, params Object[] objetos)
@@ -45,7 +45,7 @@ namespace SimulacroParciales.PrimerParcial1
 
             for (int i = 0 ; i < mascara2.Length - 1 ; i++)
             {
-                mascara2[i] = mascara2[i] + objetos[i].ToString();
+                mascara2[i] += objetos[i].ToString();
             }
 
             return mascara2.ToString();

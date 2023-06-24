@@ -33,7 +33,19 @@ namespace SimulacroParciales.PrimerParcial1
 
             //ProblemitaXd3.CaracterMasFrecuente();
 
-            //ProblemitaXd4.Reemplazar("#ca#de#na", 5, 5,"LCUAS");
+            //ProblemitaXd4.Reemplazar("ca#de#na", 5, 5);
+
+            //Problema3.CalcularYMostrar("10", "10", "10",out decimal resultado);
+
+            //int[] numeros = {3, 1, 5, 7};
+            //ProblemitasParcialProfe1.Sumados(numeros,12);
+
+
+            //"Rocha, Lucas, Lunay, El capo, El Jefe, lunahri, sanji, tu mama puta, ahre", " SaNjI"
+            //ProblemitaParcialProfe2.SopaDeLetras(null,null);
+
+
+            ProblemitaParcialProfe3.MayorImparNegativo(new int[] {0, 23, -2, -5, -1, -7, 7, 5});
         }
         
     }

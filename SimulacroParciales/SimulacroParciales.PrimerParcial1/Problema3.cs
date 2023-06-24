@@ -8,74 +8,62 @@ namespace SimulacroParciales.PrimerParcial1
 {
     internal class Problema3
     {
-        //Problema:
-        //Imagina que estás desarrollando un juego de rol(RPG) y necesitas implementar un sistema para administrar los
-        //inventarios de los personajes.Crea las clases necesarias para modelar este sistema y luego implementa un algoritmo
-        //para encontrar el artículo más caro en el inventario de un personaje.
+        /*
+         * Problema N° 3
+         * Puntuación: 1
+         * Cantidad de Pruebas: 5 (cada una 0.20)
+         * Crear un método estático "CalcularYMostrar" que reciba 3 cadenas y 1 decimal, y retorna una cadena 
+         * El primer parámetro, aunque es una cadena, representa a un número
+         * El segundo parámetro, aunque es una cadnea, representa a un número
+         * El tercer parámetro representa a un operador (solo se permiten +, -, * y /)
+         * El método debe evaluar el tipo de operación y calcular la operación correspondiente.
+         * El resultado, en decimal, de la operación se debe retornar en el parámetro del mismo tipo.
+         * El método retorna una cadena con la representación de la operación, por ejemplo: "10+20=30" (sin espacios)
+         * Se deben contemplar situaciones que puedan generar errores en las operaciones o situaciones con operadores no 
+         * soportados
+         * En cualquiera de las situaciones anómalas el método debe retornar el texto "Operacion no valida" (sin acentos)
+         * Tiempo estimado: 15m
+         */
 
-        //Crea una clase llamada "Articulo" que tenga las siguientes propiedades:
-
-        //Nombre: una cadena que indica el nombre del artículo.
-        //Precio: un número decimal que indica el precio del artículo.
-
-        //Crea una clase llamada "Personaje" que tenga las siguientes propiedades:
-
-        //Nombre: una cadena que indica el nombre del personaje.
-        //Inventario: una lista de objetos "Articulo" que representa el inventario del personaje.
-        //Implementa un método en la clase "Personaje" llamado "EncontrarArticuloMasCaro" que no reciba ningún parámetro
-        //y devuelva el artículo más caro en el inventario del personaje. Si el inventario está vacío, el método debe
-        //devolver null.
-
-        //Tu tarea es implementar las clases "Articulo" y "Personaje" según las especificaciones dadas y
-        //luego implementar el método "EncontrarArticuloMasCaro" en la clase "Personaje".
-
-        //Tiempo estimado: 30 minutos
-    }
-
-    public class Personaje
-    {
-        private string _nombre;
-        public List<Articulo> _inventario = new List<Articulo>();
-
-        public string nombre 
-        { 
-            get { return _nombre; } 
-            set { _nombre = value; } 
-        }
-
-        public Articulo EncontrarArticuloMasCaro()
+        public static string CalcularYMostrar(string numero1, string numero2, string operador, out decimal resultado)
         {
-            if (_inventario.Count == 0)
+            if (!decimal.TryParse(numero1, out decimal valor1) || !decimal.TryParse(numero2, out decimal valor2))
             {
-                return null;
+                resultado = 0;
+                return "Operacion no valida";
             }
 
-            Articulo articuloMasCaro = new Articulo();
-
-            foreach(Articulo articulo in _inventario) 
+            switch (operador)
             {
-                if (articulo.precio > articuloMasCaro.precio)
-                {
-                    articuloMasCaro = articulo;
-                }
+                case "+":
+                    resultado = valor1 + valor2;
+                    break;
+
+                case "-":
+                    resultado = valor1 - valor2;
+                    break;
+
+                case "*":
+                    resultado = valor1 * valor2;
+                    break;
+
+                case "/":
+                    try
+                    {
+                        resultado = valor1 / valor2;
+                    } catch (Exception ex)
+                    {
+                        resultado = 0;
+                        return "Operación no valida";
+                    }
+                    break;
+
+                default:
+                    resultado = 0;
+                    return "Operación no valida";
             }
 
-            return articuloMasCaro;
-        }
-    }
-
-    public class Articulo
-    {
-        private string _nombre;
-        private decimal _precio;
-
-        public string nombre { 
-            get { return this._nombre; } 
-            set { this._nombre = value; } 
-        } 
-        public decimal precio {
-            get { return this._precio; }
-            set { this._precio = value; }
+            return $"{numero1}{operador}{numero2}={resultado}";
         }
     }
 }
